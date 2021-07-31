@@ -2,7 +2,8 @@
 
 Projeto criado no curso de desenvolvimento web
 
-Criado com tebela para efetuar alinhamentos.
+Criado apenas com HTML utilizando tebela para efetuar alinhamentos.
 
 Universidade fictícia
+
 ![](img/logo.png)
